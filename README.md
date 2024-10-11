@@ -6,6 +6,7 @@ A Library Management System built using Entity Framework Core (EF Core), demonst
 Book Management: Add, edit, and remove books with navigation properties to categories and authors.
 Author and Category Management: Manage authors and categories seamlessly.
 Library Member Management: Track members' information like name and email.
+Borrow Book Management: Handle Borrowing books and returning them to the library. 
 EF Core:
 Code-first approach for database migrations and schema updates.
 Relationships between models like one-to-many and many-to-many handled with navigation properties.
