@@ -3,14 +3,14 @@ A Library Management System built using Entity Framework Core (EF Core), demonst
 
 # Features
 
-Book Management: Add, edit, and remove books with navigation properties to categories and authors.
-Author and Category Management: Manage authors and categories seamlessly.
-Library Member Management: Track members' information like name and email.
-Borrow Book Management: Handle Borrowing books and returning them to the library. 
-EF Core:
-Code-first approach for database migrations and schema updates.
-Relationships between models like one-to-many and many-to-many handled with navigation properties.
-CRUD Operations: Demonstrates the full range of CRUD operations on the database.
+Book Management: Add, edit, and remove books with navigation properties to categories and authors.<br>
+Author and Category Management: Manage authors and categories seamlessly.<br>
+Library Member Management: Track members' information like name and email.<br>
+Borrow Book Management: Handle Borrowing books and returning them to the library. <br>
+EF Core:<br>
+Code-first approach for database migrations and schema updates.<br>
+Relationships between models like one-to-many and many-to-many handled with navigation properties.<br>
+CRUD Operations: Read Books / Author / Borrow transactions, Insert a new book / borrow Book / Return Book, Remove membership .<br>
 
 # Technologies
 
