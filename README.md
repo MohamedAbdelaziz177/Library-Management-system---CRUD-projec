@@ -13,8 +13,8 @@ CRUD Operations: Demonstrates the full range of CRUD operations on the database.
 
 # Technologies
 
-.NET 6
-Entity Framework Core
-SQL Server
-LINQ for querying the database
+.NET 6, 
+Entity Framework Core, 
+SQL Server, 
+LINQ for querying the database and
 C#
